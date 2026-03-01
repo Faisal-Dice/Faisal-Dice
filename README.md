@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on Data Science, Python and related.
 - 📫 How to reach me faisalhussain.dice@gmail.com (+91 7627089698)
-- 😄 Pronouns: Faisal
+- 😄 Pronouns: Faisal Hussian
 - ⚡ Fun fact: Love to communicate.
 
 <!---
